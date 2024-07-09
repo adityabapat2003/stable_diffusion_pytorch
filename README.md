@@ -1,6 +1,15 @@
 # pytorch-stable-diffusion
 PyTorch implementation of Stable Diffusion from scratch
 
+#Architecture of the model
+![A](pic1.png)
+
+
+#Results
+![A](op.png)
+
+
+
 ## Download weights and tokenizer files:
 
 1. Download `vocab.json` and `merges.txt` from https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main/tokenizer and save them in the `data` folder
